@@ -1,10 +1,13 @@
 # device-editor
 
-This template should help get you started developing with Vue 3 in Vite.
+![CI](https://github.com/DenisKulik/device-editor/actions/workflows/github-actions.yml/badge.svg)
 
-## Recommended IDE Setup
+[Demo](https://deniskulik.github.io/device-editor/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Requirements
+
+- **Node.js** version 20 or higher
+- **npm** version 7 or higher
 
 ## Project Setup
 
@@ -22,10 +25,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
